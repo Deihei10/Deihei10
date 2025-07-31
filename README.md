@@ -1,6 +1,6 @@
 ## Hola, bienvenido a mi perfil 👋
 <p align="center">
-  <img width="200" src=https://github.com/Deihei10/Perfil/blob/e62976a08e5c68be363022a58174d9479bc26e05/Imagen.jpg>
+  <img width="200" src=https://github.com/Deihei10/Perfil/blob/74419afea956a23bd9378fc9cff8dc3aa8537fdb/Imagen.png>
 </p>
 <h2> Sobre mi </h2>
 </p>
