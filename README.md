@@ -1,6 +1,6 @@
 ## Hola, bienvenido a mi perfil 👋
 <p align="center">
-    <img width="200" src="[https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png](https://github.com/Deihei10/desktop-tutorial/blob/0fa6f7fc46efcbb371967dfed6be3eb294ed40e6/Imagen.jpg)">
+    <img width="200" src="[https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png]">
 </p>
 <!--
 **Deihei10/Deihei10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
