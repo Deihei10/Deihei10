@@ -11,7 +11,7 @@
   
 - 💬 Preguntame lo que quieras y si esta dentro de mi alcance te apoyare.
   
-- 📫 Puedes contactarte por medio de mi Email: deivert_farick@hotmail.com
+- 📫 Puedes contactarte por medio de mi Email
   
 - ⚡ Me gusta mucho: La música, los videojuegos y la danza.
 <br>
